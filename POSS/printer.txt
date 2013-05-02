@@ -1,0 +1,24 @@
+
+Americano
+ $4.0
+Tuna
+ $4.0
+Ham
+ $5.0
+Chicken
+ $5.0
+Candy
+ $1.04
+Gum
+ $1.68
+Cookies
+ $2.34
+Green
+ $2.5
+Honey
+ $3.0
+Red
+ $2.04
+Milk
+ $3.13
+33.73
